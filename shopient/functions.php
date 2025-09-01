@@ -2,7 +2,7 @@
 /**
  * Define Theme Version
  */
-define( 'SHOPIENT_THEME_VERSION', '21.6' );
+define( 'SHOPIENT_THEME_VERSION', '21.7' );
 
 function shopient_css() {
 	$parent_style = 'storely-parent-style';
