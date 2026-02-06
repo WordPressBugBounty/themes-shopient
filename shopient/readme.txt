@@ -2,10 +2,10 @@
 
 Contributors: Seller Themes
 Requires at least: 4.7
-Tested up to: 6.8.1
+Tested up to: 6.9
 Requires PHP: 5.6
-Stable tag: 22.3
-Version: 22.3
+Stable tag: 24.6
+Version: 24.6
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 Tags: one-column, two-columns, right-sidebar, flexible-header, custom-background, custom-colors, custom-header, custom-menu,  custom-logo, featured-image-header, featured-images, footer-widgets, full-width-template, sticky-post, theme-options, threaded-comments, translation-ready, blog, e-commerce, portfolio, editor-style, grid-layout
@@ -128,6 +128,75 @@ All other Images have been used in images folder, Created by Seller Themes. Also
 
 
 == Changelog ==
+
+@version 24.6
+* Style Issue Fixed
+
+@version 24.5
+* Fixed Theme Unit Issue
+
+@version 24.4
+* Margin & Padding Fixed
+
+@version 24.3
+* Style Improvement
+
+@version 24.2
+* Fixed Style Issue
+
+@version 24.1
+* Style Improvement
+
+@version 24.0
+* Style Issue Fixed
+
+@version 23.9
+* Fixed Block Style Issue
+
+@version 23.8
+* Style Improvement
+
+@version 23.7
+* Tested WP 6.9 Compatibility
+
+@version 23.6
+* Block Embed Style Fixed
+
+@version 23.5
+* Style Improvement
+
+@version 23.4
+* Style Fixed
+
+@version 23.3
+* Form Style Issue Fixed
+
+@version 23.2
+* Block Style Issue Fixed
+
+@version 23.1
+* Style Issue Fixed
+
+@version 23.0
+* Navigation Style Fixed
+
+@version 22.9
+* Block Elements Style Fixed
+
+@version 22.8
+* Padding Fixed
+
+@version 22.7
+* Wp Block Account Form Color Fixed
+
+@version 22.6
+*  Style Issue Fixed
+
+@version 22.5
+* Style Improvement
+
+@version 22.4
+* Latest WP Tested 6.8.3
 
 @version 22.3
 * Block Style Improvement
