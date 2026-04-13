@@ -5,7 +5,7 @@ Author: Seller Themes
 Author URI: https://sellerthemes.com/
 Description: Shopient is a WooCommerce multipurpose WordPress theme designed for shopping online stores. Shopient is suitable for eCommerce websites such as fashion, suit, sneaker, shoes, glasses, accessories, supermarket … or anything you want. The theme is built with lots of cool features and fully eCommerce functionalities in Pro version. Visit Shopient pro demo. https://preview.sellerthemes.com/pro/shopient/
 Template: storely
-Version: 25.6
+Version: 25.7
 Tested up to: 6.9
 Requires PHP: 5.6
 Requires at least: 4.7
@@ -1529,4 +1529,9 @@ table.wc-block-cart-items .wc-block-cart-items__row .wc-block-components-product
 
 .footer-sidebar .widget .wp-block-media-text .wp-block-media-text__content a {
 	color: #ff214f;
+}
+
+a.wp-block-latest-posts__post-title:hover,
+a.wp-block-latest-posts__post-title:focus {
+ 	        color: inherit;
 }
